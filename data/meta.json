@@ -1,0 +1,788 @@
+{
+ "version": "dcde8410b0",
+ "built": "2026-10-16 15:11",
+ "source": "places.json",
+ "origin": {
+  "lat": 10.75175,
+  "lng": 106.71045,
+  "label": "ASCON LIVING · Private Riverside View | Rooftop Entertainment"
+ },
+ "languages": {
+  "en": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1388,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "de": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "vi": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "zh": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "ko": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "ja": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "fr": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "es": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "pt": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "ar": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "rtl"
+  }
+ },
+ "images": {
+  "attractions": {
+   "en": [
+    {
+     "src": "img/attractions-map-en.jpg",
+     "sm": "img/attractions-map-en-sm.jpg",
+     "name": "attractions-map"
+    }
+   ]
+  },
+  "cafes": {
+   "en": [
+    {
+     "src": "img/cafe-chains-a-map-en.jpg",
+     "sm": "img/cafe-chains-a-map-en-sm.jpg",
+     "name": "cafe-chains-a-map"
+    },
+    {
+     "src": "img/cafe-chains-b-map-en.jpg",
+     "sm": "img/cafe-chains-b-map-en-sm.jpg",
+     "name": "cafe-chains-b-map"
+    },
+    {
+     "src": "img/cafe-closeup-en.jpg",
+     "sm": "img/cafe-closeup-en-sm.jpg",
+     "name": "cafe-closeup"
+    },
+    {
+     "src": "img/cafe-map-en.jpg",
+     "sm": "img/cafe-map-en-sm.jpg",
+     "name": "cafe-map"
+    }
+   ]
+  },
+  "drinks": {
+   "en": [
+    {
+     "src": "img/drinks-map-en.jpg",
+     "sm": "img/drinks-map-en-sm.jpg",
+     "name": "drinks-map"
+    }
+   ]
+  },
+  "relaxation": {
+   "en": [
+    {
+     "src": "img/relaxation-map-en.jpg",
+     "sm": "img/relaxation-map-en-sm.jpg",
+     "name": "relaxation-map"
+    }
+   ]
+  },
+  "restaurants": {
+   "en": [
+    {
+     "src": "img/restaurant-cn-map-en.jpg",
+     "sm": "img/restaurant-cn-map-en-sm.jpg",
+     "name": "restaurant-cn-map"
+    },
+    {
+     "src": "img/restaurant-jp-map-en.jpg",
+     "sm": "img/restaurant-jp-map-en-sm.jpg",
+     "name": "restaurant-jp-map"
+    },
+    {
+     "src": "img/restaurant-kr-map-en.jpg",
+     "sm": "img/restaurant-kr-map-en-sm.jpg",
+     "name": "restaurant-kr-map"
+    },
+    {
+     "src": "img/restaurant-map-en.jpg",
+     "sm": "img/restaurant-map-en-sm.jpg",
+     "name": "restaurant-map"
+    }
+   ]
+  },
+  "shopping": {
+   "en": [
+    {
+     "src": "img/shopping-closeup-en.jpg",
+     "sm": "img/shopping-closeup-en-sm.jpg",
+     "name": "shopping-closeup"
+    },
+    {
+     "src": "img/shopping-map-en.jpg",
+     "sm": "img/shopping-map-en-sm.jpg",
+     "name": "shopping-map"
+    }
+   ]
+  }
+ },
+ "pdfs": {
+  "en": "pdf/guide-v1.2.1-en-mobile.pdf",
+  "de": "pdf/guide-v1.2.1-de-mobile.pdf",
+  "vi": "pdf/guide-v1.2.1-vi-mobile.pdf",
+  "zh": "pdf/guide-v1.2.1-zh-mobile.pdf",
+  "ko": "pdf/guide-v1.2.1-ko-mobile.pdf",
+  "ja": "pdf/guide-v1.2.1-ja-mobile.pdf",
+  "fr": "pdf/guide-v1.2.1-fr-mobile.pdf",
+  "es": "pdf/guide-v1.2.1-es-mobile.pdf",
+  "pt": "pdf/guide-v1.2.1-pt-mobile.pdf"
+ },
+ "categories": [
+  {
+   "id": "food",
+   "order": 1,
+   "icon": "🍜",
+   "labels": {
+    "en": "Food"
+   },
+   "subcategories": {
+    "vietnamese": {
+     "slug": "vietnamese",
+     "label_en": "Vietnamese",
+     "icon": "🍲"
+    },
+    "japanese": {
+     "slug": "japanese",
+     "label_en": "Japanese",
+     "icon": "🍣"
+    },
+    "korean": {
+     "slug": "korean",
+     "label_en": "Korean",
+     "icon": "🥘"
+    },
+    "chinese": {
+     "slug": "chinese",
+     "label_en": "Chinese",
+     "icon": "🥟"
+    },
+    "thai": {
+     "slug": "thai",
+     "label_en": "Thai",
+     "icon": "🌶️"
+    },
+    "indian": {
+     "slug": "indian",
+     "label_en": "Indian",
+     "icon": "🍛"
+    },
+    "american": {
+     "slug": "american",
+     "label_en": "American",
+     "icon": "🍔"
+    },
+    "italian": {
+     "slug": "italian",
+     "label_en": "Italian",
+     "icon": "🍕"
+    },
+    "mexican": {
+     "slug": "mexican",
+     "label_en": "Mexican",
+     "icon": "🌮"
+    },
+    "latin_american": {
+     "slug": "latin_american",
+     "label_en": "Latin American",
+     "icon": "🫓"
+    },
+    "spanish": {
+     "slug": "spanish",
+     "label_en": "Spanish & tapas",
+     "icon": "🥘"
+    },
+    "hotpot_bbq": {
+     "slug": "hotpot_bbq",
+     "label_en": "Hot pot & BBQ",
+     "icon": "🍢"
+    },
+    "fast_food": {
+     "slug": "fast_food",
+     "label_en": "Fast food",
+     "icon": "🍟"
+    },
+    "vegan_vegetarian": {
+     "slug": "vegan_vegetarian",
+     "label_en": "Vegan & vegetarian",
+     "icon": "🥗"
+    },
+    "halal": {
+     "slug": "halal",
+     "label_en": "Halal",
+     "icon": "☪️"
+    },
+    "street_food": {
+     "slug": "street_food",
+     "label_en": "Street food",
+     "icon": "🥢"
+    },
+    "seafood": {
+     "slug": "seafood",
+     "label_en": "Seafood",
+     "icon": "🦐"
+    },
+    "middle_eastern": {
+     "slug": "middle_eastern",
+     "label_en": "Middle Eastern",
+     "icon": "🧆"
+    },
+    "international_other": {
+     "slug": "international_other",
+     "label_en": "Other international",
+     "icon": "🌍"
+    }
+   },
+   "count": 284
+  },
+  {
+   "id": "cafes_desserts",
+   "order": 2,
+   "icon": "☕",
+   "labels": {
+    "en": "Cafés & desserts"
+   },
+   "subcategories": {
+    "cafe": {
+     "slug": "cafe",
+     "label_en": "Café",
+     "icon": "☕"
+    },
+    "dessert": {
+     "slug": "dessert",
+     "label_en": "Dessert",
+     "icon": "🍧"
+    },
+    "bakery": {
+     "slug": "bakery",
+     "label_en": "Bakery",
+     "icon": "🥐"
+    },
+    "tea": {
+     "slug": "tea",
+     "label_en": "Tea & milk tea",
+     "icon": "🧋"
+    }
+   },
+   "count": 622
+  },
+  {
+   "id": "bars_nightlife",
+   "order": 3,
+   "icon": "🍻",
+   "labels": {
+    "en": "Bars & nightlife"
+   },
+   "subcategories": {
+    "bar": {
+     "slug": "bar",
+     "label_en": "Bar",
+     "icon": "🍸"
+    },
+    "quan_nhau": {
+     "slug": "quan_nhau",
+     "label_en": "Beer restaurant (quán nhậu)",
+     "icon": "🍺"
+    },
+    "rooftop": {
+     "slug": "rooftop",
+     "label_en": "Rooftop",
+     "icon": "🌃"
+    },
+    "beer_garden": {
+     "slug": "beer_garden",
+     "label_en": "Beer garden",
+     "icon": "🌳"
+    }
+   },
+   "count": 32
+  },
+  {
+   "id": "kids_family",
+   "order": 4,
+   "icon": "👨‍👩‍👧",
+   "labels": {
+    "en": "Kids & family"
+   },
+   "subcategories": {
+    "indoor_playground": {
+     "slug": "indoor_playground",
+     "label_en": "Indoor playground",
+     "icon": "🧸"
+    },
+    "water_park": {
+     "slug": "water_park",
+     "label_en": "Water park",
+     "icon": "💦"
+    },
+    "zoo_animals": {
+     "slug": "zoo_animals",
+     "label_en": "Zoo & animals",
+     "icon": "🦒"
+    },
+    "park": {
+     "slug": "park",
+     "label_en": "Park",
+     "icon": "🌳"
+    },
+    "classes": {
+     "slug": "classes",
+     "label_en": "Classes & workshops",
+     "icon": "🎨"
+    },
+    "kid_friendly_restaurant": {
+     "slug": "kid_friendly_restaurant",
+     "label_en": "Kid-friendly restaurant",
+     "icon": "🍽️"
+    }
+   },
+   "count": 45
+  },
+  {
+   "id": "sights_culture",
+   "order": 5,
+   "icon": "🏛️",
+   "labels": {
+    "en": "Sights & culture"
+   },
+   "subcategories": {
+    "museum": {
+     "slug": "museum",
+     "label_en": "Museum",
+     "icon": "🏛️"
+    },
+    "temple_pagoda": {
+     "slug": "temple_pagoda",
+     "label_en": "Temple & pagoda",
+     "icon": "🛕"
+    },
+    "church": {
+     "slug": "church",
+     "label_en": "Church",
+     "icon": "⛪"
+    },
+    "mosque": {
+     "slug": "mosque",
+     "label_en": "Mosque",
+     "icon": "🕌"
+    },
+    "other_worship": {
+     "slug": "other_worship",
+     "label_en": "Other houses of worship",
+     "icon": "🙏"
+    },
+    "landmark": {
+     "slug": "landmark",
+     "label_en": "Landmark",
+     "icon": "📍"
+    },
+    "quirky": {
+     "slug": "quirky",
+     "label_en": "Quirky & unusual",
+     "icon": "🦄"
+    }
+   },
+   "count": 88
+  },
+  {
+   "id": "activities",
+   "order": 6,
+   "icon": "🎳",
+   "labels": {
+    "en": "Activities"
+   },
+   "subcategories": {
+    "cinema": {
+     "slug": "cinema",
+     "label_en": "Cinema",
+     "icon": "🎬"
+    },
+    "bowling": {
+     "slug": "bowling",
+     "label_en": "Bowling",
+     "icon": "🎳"
+    },
+    "sport_fitness": {
+     "slug": "sport_fitness",
+     "label_en": "Sport & fitness",
+     "icon": "🏋️"
+    },
+    "swimming": {
+     "slug": "swimming",
+     "label_en": "Swimming",
+     "icon": "🏊"
+    },
+    "karaoke": {
+     "slug": "karaoke",
+     "label_en": "Karaoke",
+     "icon": "🎤"
+    },
+    "escape_room": {
+     "slug": "escape_room",
+     "label_en": "Escape room",
+     "icon": "🔐"
+    },
+    "cooking_class": {
+     "slug": "cooking_class",
+     "label_en": "Cooking class",
+     "icon": "👩‍🍳"
+    },
+    "coworking": {
+     "slug": "coworking",
+     "label_en": "Coworking",
+     "icon": "💻"
+    },
+    "quirky": {
+     "slug": "quirky",
+     "label_en": "Quirky & unusual",
+     "icon": "🦄"
+    }
+   },
+   "count": 107
+  },
+  {
+   "id": "relaxation",
+   "order": 7,
+   "icon": "💆",
+   "labels": {
+    "en": "Relaxation"
+   },
+   "subcategories": {
+    "massage_spa": {
+     "slug": "massage_spa",
+     "label_en": "Massage & spa",
+     "icon": "💆"
+    }
+   },
+   "count": 155
+  },
+  {
+   "id": "shopping",
+   "order": 8,
+   "icon": "🛍️",
+   "labels": {
+    "en": "Shopping"
+   },
+   "subcategories": {
+    "mall": {
+     "slug": "mall",
+     "label_en": "Shopping mall",
+     "icon": "🏬"
+    },
+    "supermarket": {
+     "slug": "supermarket",
+     "label_en": "Supermarket",
+     "icon": "🛒"
+    },
+    "market": {
+     "slug": "market",
+     "label_en": "Local market",
+     "icon": "🧺"
+    },
+    "convenience": {
+     "slug": "convenience",
+     "label_en": "Convenience store",
+     "icon": "🏪"
+    },
+    "pharmacy_shop": {
+     "slug": "pharmacy_shop",
+     "label_en": "Drugstore & beauty",
+     "icon": "🧴"
+    }
+   },
+   "count": 42
+  },
+  {
+   "id": "day_trips",
+   "order": 9,
+   "icon": "🚌",
+   "labels": {
+    "en": "Day trips"
+   },
+   "subcategories": {
+    "mekong": {
+     "slug": "mekong",
+     "label_en": "Mekong Delta",
+     "icon": "🛶"
+    },
+    "cu_chi": {
+     "slug": "cu_chi",
+     "label_en": "Củ Chi Tunnels",
+     "icon": "🕳️"
+    },
+    "can_gio": {
+     "slug": "can_gio",
+     "label_en": "Cần Giờ mangroves",
+     "icon": "🐒"
+    },
+    "vung_tau": {
+     "slug": "vung_tau",
+     "label_en": "Vũng Tàu beach",
+     "icon": "🏖️"
+    },
+    "other": {
+     "slug": "other",
+     "label_en": "Other day trips",
+     "icon": "🗺️"
+    }
+   },
+   "count": 4
+  },
+  {
+   "id": "practical_emergency",
+   "order": 10,
+   "icon": "🆘",
+   "labels": {
+    "en": "Practical & emergency"
+   },
+   "subcategories": {
+    "hospital": {
+     "slug": "hospital",
+     "label_en": "Hospital",
+     "icon": "🏥"
+    },
+    "clinic": {
+     "slug": "clinic",
+     "label_en": "Clinic",
+     "icon": "🩺"
+    },
+    "pharmacy": {
+     "slug": "pharmacy",
+     "label_en": "Pharmacy",
+     "icon": "💊"
+    },
+    "atm": {
+     "slug": "atm",
+     "label_en": "ATM",
+     "icon": "🏧"
+    },
+    "money_exchange": {
+     "slug": "money_exchange",
+     "label_en": "Money exchange",
+     "icon": "💱"
+    },
+    "police_consulate": {
+     "slug": "police_consulate",
+     "label_en": "Police & consulates",
+     "icon": "👮"
+    },
+    "laundry": {
+     "slug": "laundry",
+     "label_en": "Laundry",
+     "icon": "🧺"
+    }
+   },
+   "count": 40
+  }
+ ],
+ "tags": {
+  "family": {
+   "icon": "👨‍👩‍👧",
+   "labels": {
+    "en": "Family"
+   }
+  },
+  "age_0_3": {
+   "icon": "👶",
+   "labels": {
+    "en": "Babies & toddlers (0–3)"
+   }
+  },
+  "age_4_12": {
+   "icon": "🧒",
+   "labels": {
+    "en": "Kids (4–12)"
+   }
+  },
+  "teens": {
+   "icon": "🧑",
+   "labels": {
+    "en": "Teens"
+   }
+  },
+  "vegan": {
+   "icon": "🌱",
+   "labels": {
+    "en": "Vegan"
+   }
+  },
+  "vegetarian": {
+   "icon": "🥗",
+   "labels": {
+    "en": "Vegetarian"
+   }
+  },
+  "halal": {
+   "icon": "☪️",
+   "labels": {
+    "en": "Halal"
+   }
+  },
+  "accessible": {
+   "icon": "♿",
+   "labels": {
+    "en": "Wheelchair accessible"
+   }
+  },
+  "budget": {
+   "icon": "🎒",
+   "labels": {
+    "en": "Budget"
+   }
+  },
+  "luxury": {
+   "icon": "💎",
+   "labels": {
+    "en": "Luxury"
+   }
+  },
+  "rainy_day": {
+   "icon": "🌧️",
+   "labels": {
+    "en": "Good on a rainy day"
+   }
+  },
+  "hot_day": {
+   "icon": "☀️",
+   "labels": {
+    "en": "Good on a hot day"
+   }
+  },
+  "quirky": {
+   "icon": "🦄",
+   "labels": {
+    "en": "Quirky & unusual"
+   }
+  },
+  "gluten_free": {
+   "icon": "🌾",
+   "labels": {
+    "en": "Gluten-free options"
+   }
+  },
+  "kosher": {
+   "icon": "✡️",
+   "labels": {
+    "en": "Kosher"
+   }
+  },
+  "pet_friendly": {
+   "icon": "🐾",
+   "labels": {
+    "en": "Pet-friendly"
+   }
+  },
+  "group_friendly": {
+   "icon": "👥",
+   "labels": {
+    "en": "Good for groups"
+   }
+  },
+  "seniors": {
+   "icon": "🪑",
+   "labels": {
+    "en": "Senior-friendly"
+   }
+  },
+  "lgbtq_friendly": {
+   "icon": "🏳️‍🌈",
+   "labels": {
+    "en": "LGBTQ+ friendly"
+   }
+  },
+  "stroller_friendly": {
+   "icon": "👶",
+   "labels": {
+    "en": "Stroller-friendly"
+   }
+  }
+ },
+ "icon_files": [
+  "accessible",
+  "activities",
+  "age_0_3",
+  "age_4_12",
+  "alcohol",
+  "bars_nightlife",
+  "budget",
+  "cafes_desserts",
+  "day_trips",
+  "family",
+  "food",
+  "gluten_free",
+  "group_friendly",
+  "halal",
+  "hot_day",
+  "kids_family",
+  "kosher",
+  "lgbtq_friendly",
+  "luxury",
+  "pet_friendly",
+  "practical_emergency",
+  "quirky",
+  "rainy_day",
+  "relaxation",
+  "seniors",
+  "shopping",
+  "sights_culture",
+  "stroller_friendly",
+  "teens",
+  "vegan",
+  "vegetarian"
+ ],
+ "notices": true,
+ "time_footer": "Times are estimates for typical daytime traffic."
+}

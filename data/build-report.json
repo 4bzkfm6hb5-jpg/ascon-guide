@@ -1,0 +1,82 @@
+{
+ "log": [
+  "places.json (master): 1419 places",
+  "  GERMAN-IN-EN  places.json :: shop-long-chau.addr :: 30A L\u00e2m V\u0103n B\u1ec1n, Ph\u01b0\u1eddng T\u00e2n H\u01b0ng, TP. HCM (ca. 150 m von der Kreuzung L\u00e2m V\u0103n B\u1ec1n/Tr\u1ea7n Xu\u00e2n So\u1ea1n)",
+  "categories.json: 10 categories",
+  "notices.json copied"
+ ],
+ "languages": {
+  "en": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1388,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "de": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "vi": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "zh": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "ko": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "ja": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "fr": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "es": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "pt": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "ltr"
+  },
+  "ar": {
+   "guide": true,
+   "places": 1419,
+   "notes": 1389,
+   "practical": true,
+   "dir": "rtl"
+  }
+ },
+ "places": 1419,
+ "source": "places.json"
+}

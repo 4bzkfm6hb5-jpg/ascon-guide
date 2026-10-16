@@ -1,0 +1,72 @@
+ASCON LIVING guide – category photos (src/img/cat/*.webp)
+All images from Wikimedia Commons (free licenses, verified on each file page via the Commons API); cropped to 800x600, converted to WebP.
+
+food.webp
+  20260518 - A Bowl of Pho - Hanoi.jpg
+  Description: Pho with fruit, sparkling water, and condiments at Noi Bai International Airport, Hanoi, Vietnam.
+  Author: Yamato Shiya
+  License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  Source: https://commons.wikimedia.org/wiki/File:20260518_-_A_Bowl_of_Pho_-_Hanoi.jpg
+
+cafes_desserts.webp
+  Vietnamese coffee brewing with metal filter.jpg
+  Description: Vietnamese coffee brewing with a metal phin filter
+  Author: HungryHuy
+  License: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+  Source: https://commons.wikimedia.org/wiki/File:Vietnamese_coffee_brewing_with_metal_filter.jpg
+
+bars_nightlife.webp
+  Ho Chi Minh's rooftop bar (31663805138).jpg
+  Description: Ho Chi Minh's rooftop bar
+  Author: Raita Futo from Tokyo, Japan
+  License: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+  Source: https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh%27s_rooftop_bar_(31663805138).jpg
+
+kids_family.webp
+  Saigon zoo and botanical gardens, HCMC, Vietnam (23470541533).jpg
+  Description: Saigon zoo and botanical gardens, HCMC, Vietnam
+  Author: pelican from Tokyo, Japan
+  License: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+  Source: https://commons.wikimedia.org/wiki/File:Saigon_zoo_and_botanical_gardens,_HCMC,_Vietnam_(23470541533).jpg
+
+sights_culture.webp
+  Ho Chi Minh City Skyline at Night.jpg
+  Description: The image captures the vibrant and illuminated skyline of Ho Chi Minh City (formerly known as Saigon) at night. Prominent skyscrapers from left to right, includ
+  Author: Tran Van Ngoc
+  License: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  Source: https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_Skyline_at_Night.jpg
+
+activities.webp
+  Eriste - Embalse - Kayak 02.jpg
+  Description: Kayaks at the Linsoles Reservoir (aka Eriste Reservoir). Benasque Valley, Ribagorza, Huesca, Aragon, Spain
+  Author: Basotxerri
+  License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  Source: https://commons.wikimedia.org/wiki/File:Eriste_-_Embalse_-_Kayak_02.jpg
+
+relaxation.webp
+  Massage at Witches Falls Cottages (cropped).jpg
+  Description: On a cold winter day light a fire and enjoy a hot stone massage.
+  Author: Daniela
+  License: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+  Source: https://commons.wikimedia.org/wiki/File:Massage_at_Witches_Falls_Cottages_(cropped).jpg
+
+shopping.webp
+  Can Tho City - Street Market, vegetable.jpg
+  Description: Can Tho City-Street Market,vegetable
+  Author: Franzfoto
+  License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+  Source: https://commons.wikimedia.org/wiki/File:Can_Tho_City_-_Street_Market,_vegetable.jpg
+
+day_trips.webp
+  Mekong Delta Ham Luong River.jpg
+  Description: Mekong Delta
+  Author: CaCo789
+  License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  Source: https://commons.wikimedia.org/wiki/File:Mekong_Delta_Ham_Luong_River.jpg
+
+practical_emergency.webp
+  Ho Chi Minh City, Nguyen Thi Minh Khai Street, 2020-01 CN-01.jpg
+  Description: Ho Chi Minh City (Vietnam) – Nguyen Thi Minh Khai Street – rush hour
+  Author: Steffen Schmitz (more photos)
+  License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  Source: https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Nguyen_Thi_Minh_Khai_Street,_2020-01_CN-01.jpg

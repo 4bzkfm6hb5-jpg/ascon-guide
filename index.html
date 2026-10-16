@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ASCON LIVING · Travel Guide</title>
+<meta name="description" content="ASCON LIVING guest travel guide for Ho Chi Minh City (Quận 4 & Quận 7). Built for Groups. Designed for Comfort. Stay Better. Live ASCON.">
+<meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="ASCON Guide">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header id="hdr" hidden>
+  <a href="#/" class="logo" aria-label="ASCON LIVING – Home"><img src="icons/logo-lockup.png" alt="ASCON LIVING" width="140" height="50"></a>
+  <div class="hdr-r">
+    <button class="hbtn sos" id="sosBtn" aria-haspopup="dialog">🆘 <span id="sosTxt">SOS</span></button>
+    <button class="hbtn lang" id="langBtn" aria-haspopup="dialog"><span id="langFlag">🌐</span> <span id="langCode">EN</span></button>
+  </div>
+</header>
+<div id="notice" hidden></div>
+<main id="app" tabindex="-1"></main>
+<footer id="ftr" hidden>
+  <img src="icons/logo-lockup.png" alt="ASCON LIVING" width="120" height="43">
+  <p class="tagline" dir="ltr" lang="en">Built for Groups. Designed for Comfort. Stay Better. Live ASCON.</p>
+  <p class="small"><button class="linkbtn" id="ftrCred" data-credits>📷 Photo credits</button></p>
+  <p class="small" id="ftrInfo"></p>
+</footer>
+<nav id="tabbar" hidden aria-label="Navigation">
+  <a href="#/" class="tab" id="tabHome"><span class="ti" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg></span><span class="tl" id="tabHomeTxt">Explore</span></a>
+  <a href="#/map" class="tab" id="tabMap"><span class="ti" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M9 4 3.5 6v14L9 18l6 2 5.5-2V4L15 6 9 4zM9 4v14M15 6v14"/></svg></span><span class="tl" id="tabMapTxt">Map</span></a>
+  <button class="tab sos" id="tabSos" aria-haspopup="dialog"><span class="ti" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 3.5 21 19H3z"/><path d="M12 10v4M12 16.6v.2"/></svg></span><span class="tl" id="tabSosTxt">SOS</span></button>
+  <button class="tab" id="tabLang" aria-haspopup="dialog"><span class="ti" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17M12 3.5c2.6 2.6 2.6 14.4 0 17M12 3.5c-2.6 2.6-2.6 14.4 0 17"/></svg></span><span class="tl" id="tabLangTxt">Language</span></button>
+</nav>
+<div id="welcome" hidden></div>
+<div id="langModal" class="modal" hidden role="dialog" aria-modal="true"></div>
+<div id="sosModal" class="modal" hidden role="dialog" aria-modal="true"></div>
+<div id="toast" role="status" aria-live="polite"></div>
+<div id="iosHint" hidden></div>
+<script src="ui.js"></script>
+<script src="taxonomy.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
